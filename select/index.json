@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ふたりの形(studio ver.) / capo2",
+  "base_artist": "capo2",
+  "createdAt": "2026-01-06T05:06:10.222677Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりの形 (studio ver.)",
+      "artist": "capo2",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりの形_(studio_ver.)_capo2.txt"
+    }
+  ]
+}
